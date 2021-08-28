@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.text {
+  text-transform: capitalize;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(10, 1fr);
+}
